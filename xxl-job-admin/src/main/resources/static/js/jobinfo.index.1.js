@@ -394,7 +394,7 @@ $(function() {
         rules : {
 			jobDesc : {
 				required : true,
-				maxlength: 50
+				maxlength: 150
 			},
 			author : {
 				required : true
@@ -588,7 +588,7 @@ $(function() {
 		rules : {
 			jobDesc : {
 				required : true,
-				maxlength: 50
+				maxlength: 150
 			},
 			author : {
 				required : true
